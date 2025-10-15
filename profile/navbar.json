@@ -18,20 +18,24 @@
             "href": "/skills"
         },
         {
-            "title": "Education",
-            "href": "/education"
+            "title": "Team Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Solo Projects",
+            "href": "/solo-projects"
         },
         {
             "title": "Experience",
             "href": "/experience"
         },
         {
-            "title": "Projects",
-            "href": "/projects"
+            "title": "Education",
+            "href": "/education"
         },
         {
             "title": "Resume",
-            "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
+            "href": "https://drive.google.com/file/d/1SW1bliUnP4AM0X7Awas99C4lgYXkNL8F/view?usp=sharing",
             "type": "link"
         }
     ]

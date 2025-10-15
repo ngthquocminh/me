@@ -1,19 +1,12 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Jun 2017 - Jun 2021",
+            "cardTitle": "B.E, Computer Science",
+            "cardSubtitle":"Ho Chi Minh City University of Technology, Vietnam",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/HCMCUT.svg"
             }
-        },
-        {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
         }
     ]
 }
