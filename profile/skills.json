@@ -52,6 +52,10 @@
                 {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/rider.png",
+                    "title": "Rider"
                 }
             ]
     }

@@ -3,27 +3,26 @@
         {
             "image" : "images/projects/goghland.png",
             "title": "GoghLand",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "year": "5/2022-3/2024",
+            "bodyText": "- A sandbox-style multiplayer social game where players create avatars, customize homes and words, host events.\n - Built login and sign-up with Firebase + Social Auth (Google, Facebook, Twitter).\n - Developed multiplayer features with Photon Fusion\n - Built systems for 3D avatar customization and home decoration.\n - Designed & developed an in-game timeline editor for 3D music shows, allowing users to choreograph avatars, effects, and stage setups.",
             "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
-                },
                 {
                     "text": "Video",
                     "href": "https://youtu.be/_zcbzZmizUU"
                 }
             ],
             "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
+                "Unity",
+                "Firebase",
+                "Photon",
+                "Mediapipe"
             ]
         },
         {
             "image" : "images/projects/hado-the-hunter.png",
             "title": "Hado The Hunter",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "year": "2021",
+            "bodyText": "- A Online 2-player AR Shooter Mobile Game for Android & iOS\n- Developed the logic for shoting, scoring. and syncing data across the network.\n- Worked with artist. Handled UI/UX development. Handled scene visuals and animations. ",
             "links": [
                 {
                     "text": "Article",
@@ -31,37 +30,33 @@
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
-            ]
-        },
-        {
-            "image" : "images/projects/virtual-office.jpg",
-            "title": "Virtual Office App",
-            "bodyText": "- An Android App that allows users to create and manage virtual offices.\n - Features include video conferencing, file sharing, and real-time collaboration.\n - Designed for remote teams and freelancers.",
-            "links": [
-                {
-                    "text": "Article",
-                    "href": "https://note.com/modern_lion463/n/n36f08ac1d11c?magazine_key=m06aa4f94c5dc"
-                }
-            ],
-            "tags" : [
-                "React.js",
-                "Three.js",
-                "Node.js",
-                "Websocket",
-                "WebRTC"
+                "Unity",
+                "Photon",
+                "ARFoundation"
             ]
         },
         {
             "image" : "images/projects/dorco-exhibition.png",
             "title": "Virtual Exhibition Game",
-            "bodyText": "- An Android App that allows users to create and manage virtual exhibitions.\n - Features include video conferencing, file sharing, and real-time collaboration.\n - Designed for remote teams and freelancers.",
+            "year": "6-8/2021",
+            "bodyText": "- A web-based 3D multiplayer exhibition game where users explore booths, customize avatars, interact with others.\n- Built multiplayer features including matchmaking, movement sync, emote interaction, and 2-player quiz battles.\n- Created interactive booths for players to explore and engage with content.\n- Optimized build size and game logic for faster loading and smoother performance.",
+            "links": [
+                {
+                    "text": "Article",
+                    "href": "https://marvyco.com/en/portfolio/dorco-phut-ngao-tao-nen-toi-unique-online-exhibition-exclusively-for-gen-z"
+                }
+            ],
+            "tags" : [
+                "Unity",
+                "Photon",
+                "WebGL"
+            ]
+        },
+        {
+            "image" : "images/projects/virtual-office.jpg",
+            "title": "Virtual Office App",
+            "year": "2024",
+            "bodyText": "- A web-based 3D virtual office where users interact via avatars, chat in real time, hold video meetings with screen sharing.\n- Built a 3D virtual office web app using React.js & Three.js, allowing users to join rooms and control avatars in real time.\n- Implemented multiplayer functionality in backend (Node.js + WebSocket), synchronize avatar movement + text chat.\n- Developed a meeting feature using WebRTC for video conferencing and screen sharing, similar to Google Meet.",
             "links": [
                 {
                     "text": "Article",
